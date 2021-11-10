@@ -1,0 +1,8 @@
+/mysite/__pycache__/
+/myapp/__pycache__/
+/myapp/migrations/__pycache__/
+/frontend/node_modules/
+/frontend/.env
+/frontend/package-lock.json
+db.sqlite3
+Pipfile.lock
